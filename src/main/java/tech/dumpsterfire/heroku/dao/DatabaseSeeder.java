@@ -3,7 +3,7 @@ package tech.dumpsterfire.heroku.dao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
-import tech.dumpsterfire.inventory.model.*;
+import tech.dumpsterfire.heroku.model.InventoryItems;
 
 @Component
 public class DatabaseSeeder implements CommandLineRunner {
