@@ -1,4 +1,4 @@
-package com.example.heroku;
+package tech.dumpsterfire.heroku;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

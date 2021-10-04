@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.heroku;
+package tech.dumpsterfire.heroku;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
