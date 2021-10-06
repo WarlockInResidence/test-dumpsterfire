@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS HerokuApplication.jar -Dserver.port=$PORT $JAR_OPTS --server.port=$PORT
+web: java $JAVA_OPTS target.gradle-getting-started.jar -Dserver.port=$PORT $JAR_OPTS
